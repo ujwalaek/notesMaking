@@ -8,3 +8,5 @@ TechStacks used: HTML, CSS, JS
 Procedure for setting up in the local system:
   1) Download the files and put them all in a single folder
   2) Open in VSCode and using the extension to run static files you can view the webpage
+
+Hosted here : https://makenotes-uohx.onrender.com/
